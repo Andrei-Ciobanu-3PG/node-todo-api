@@ -13,7 +13,7 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', {useNewUrlParser: true}
     //     completed: false
     // },(err, result) => {
     //     if(err) {
-    //         return console.log('Unable to insert todo', err);
+    //         return console.log('Unable to insert todo.js', err);
     //     }
     //
     //     console.log(JSON.stringify(result.ops, undefined, 2));
